@@ -1,1 +1,15 @@
+# macOS
+.DS_Store
 
+# Python
+__pycache__/
+*.pyc
+
+# Visual Studio Code
+.vscode/
+
+# node
+node_modules/
+
+# logs
+*.log
